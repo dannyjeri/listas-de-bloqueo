@@ -11,6 +11,7 @@
 
 #  ----------------JUEGOS
 0.0.0.0 playhob.com
+0.0.0.0 playhob.com/es
 
 #  ----------------TIKTOK
 0.0.0.0 tiktok.com
