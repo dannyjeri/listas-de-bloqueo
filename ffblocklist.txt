@@ -1,0 +1,22 @@
+#  Title: AckbarList/host
+#  Este archivo host contiene una colección de sitios a bloquear
+#
+#
+#  Fecha de creación: 01/09/2026
+#  Fecha de actualización: 
+#  
+#
+#  ACKBARLIST
+#
+#  ----------------JUEGOS
+
+0.0.0.0 playhob.com
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokv.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokw.us
+0.0.0.0 tiktokcdn-us.com
+0.0.0.0 tiktokv.us
+0.0.0.0 ttdns2.com
+
+
