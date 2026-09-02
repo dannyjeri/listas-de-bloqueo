@@ -8,9 +8,11 @@
 #
 #  ACKBARLIST
 #
-#  ----------------JUEGOS
 
+#  ----------------JUEGOS
 0.0.0.0 playhob.com
+
+#  ----------------TIKTOK
 0.0.0.0 tiktok.com
 0.0.0.0 tiktokv.com
 0.0.0.0 tiktokcdn.com
@@ -18,5 +20,13 @@
 0.0.0.0 tiktokcdn-us.com
 0.0.0.0 tiktokv.us
 0.0.0.0 ttdns2.com
+
+#  ----------------PRN
+0.0.0.0 pornhub.com
+0.0.0.0 xvideos.com
+0.0.0.0 xnxx.com
+0.0.0.0 ixxx.com
+
+
 
 
