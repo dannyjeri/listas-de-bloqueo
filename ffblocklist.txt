@@ -332,7 +332,6 @@
 0.0.0.0 c7.rbxcdn.com
 0.0.0.0 c8.rbxcdn.com
 0.0.0.0 c9.rbxcdn.com
-0.0.0.0 Mazean
 0.0.0.0 mazean.com
 0.0.0.0 www.mazean.com
 0.0.0.0 crazygames-poki.com
@@ -350,7 +349,6 @@
 0.0.0.0 www.hola.com
 0.0.0.0 client.hola.org
 0.0.0.0 extension.hola.org
-0.0.0.0 Juegos
 0.0.0.0 akinator.com
 0.0.0.0 www.akinator.com
 0.0.0.0 en.akinator.com
