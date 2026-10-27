@@ -9,6 +9,10 @@
 #  ACKBARLIST
 #
 
+#  ----------------VARIOS
+0.0.0.0 www.myinstants.com
+0.0.0.0 myinstants.com
+
 #  ----------------JUEGOS
 0.0.0.0 playhob.com
 0.0.0.0 playhob.com/es
