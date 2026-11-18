@@ -14,6 +14,10 @@
 0.0.0.0 myinstants.com
 
 #  ----------------JUEGOS
+0.0.0.0 cabezones.xyz
+0.0.0.0 wormax.io
+0.0.0.0 shellshock.io
+0.0.0.0 mess.eu.org
 0.0.0.0 playhob.com
 0.0.0.0 playhob.com/es
 0.0.0.0 www.torproject.org
